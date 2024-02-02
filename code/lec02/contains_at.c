@@ -11,7 +11,7 @@ int main(int argc, char** argv) {
 }
 
 int contains_at(char* ptr) {
-  char *p = ptr;
+  char * p = ptr;
   while( *p ) {
     if(*p == '@') return 1;
     p += 1; // or p++
