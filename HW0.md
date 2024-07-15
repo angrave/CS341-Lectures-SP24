@@ -1,6 +1,6 @@
 # Welcome to Homework 0!
 
-For these questions you'll need the mini course and  "Linux-In-TheBrowser" virtual machine (yes it really does run in a web page on your machine using javascript!) at -
+For these questions you'll need the mini course and  "Linux-In-The-Browser" virtual machine (yes it really does run in a web page on your machine using javascript!) at -
 
 https://cs-education.github.io/sys/
 
